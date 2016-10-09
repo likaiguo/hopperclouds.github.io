@@ -41,6 +41,8 @@ CREATE TABLE IF NOT EXISTS `users` (
 );
 ```
 
+<!--more-->
+
 ## 那么什么是Sequelize？
 
 Sequelize是一款基于Nodejs功能强大的异步ORM框架。

@@ -18,7 +18,7 @@ Zeppelin思维导图
 ![2016/9/1/截图](http://img.pinbot.me:8080/uploads/2016/9/1/blob_1472665482681.png "blob_1472665482681.png")
 
 推荐查看思维导图中的各个链接,尤其是[官方文档](https://zeppelin.apache.org/docs/0.6.1/)和[中文翻译]().
-
+<!--more-->
 ## 快速搭建Zeppelin环境
 
 ### 安装过程
